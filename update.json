@@ -1,6 +1,6 @@
 {
   "appName": "Alvryn",
-  "latestVersion": "0.1.0",
-  "downloadUrl": "https://github.com/Vaelorn/Alvryn/releases/download/v0.1.1/AlvrynSetup.exe",
-  "releaseNotes": "Minor fixes and improvements."
+  "LatestVersion": "0.1.0",
+  "DownloadUrl": "https://github.com/Vaelorn/Alvryn/releases/download/v0.1.1/AlvrynSetup.exe",
+  "ReleaseNotes": "Minor fixes and improvements."
 }
